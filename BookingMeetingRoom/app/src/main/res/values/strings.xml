@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BookingMeetingRoom</string>
+    <string name="userName">نام کاربری</string>
+    <string name="back">back</string>
+    <string name="dismiss">بیخیال </string>
+    <string name="sign_in">ورود </string>
+    <string name="add_new_meeting">جلسه جدید </string>
+    <string name="forgot_password">فراموشی رمز عبور </string>
+    <string name="feature_not_available">این ویژگی دردسترس نمی باشد</string>
+    <string name="password">رمز عبور</string>
+    <string name="hide_password">مخفی کردن رمز عبور</string>
+    <string name="show_password">نمایش رمز عبور</string>
+
+
+</resources>
